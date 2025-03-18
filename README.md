@@ -5,14 +5,14 @@ Ce projet utilise des techniques de deep learning pour identifier les cactus de 
 ---
 
 ## 📋 Table des matières
-1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Architecture du Modèle](#architecture-du-modèle)
-4. [Résultats](#résultats)
-5. [Installation](#installation)
-6. [Utilisation](#utilisation)
-7. [Contributeurs](#contributeurs)
-8. [Références](#références)
+1. [Introduction](#Introduction)
+2. [Dataset](#Dataset)
+3. [Architecture du Modèle](#Architecture-du-Modèle)
+4. [Résultats](#Résultats)
+5. [Installation](#Installation)
+6. [Utilisation](#uUilisation)
+7. [Contributeurs](#Contributeurs)
+8. [Références](#Références)
 
 ---
 
