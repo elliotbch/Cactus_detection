@@ -76,7 +76,7 @@ Les performances du modèle sont excellentes :
 - Faux négatifs : 3
 
 ### Courbes ROC/AUC et Perte
-![ROC/AUC Curve](https://cdn.mathpix.com/cropped/2025_03_18_97988f ⚙️ Installation
+![Matrice de corrélation](https://github.com/elliotbch/Cactus_detection/blob/master/reference_reports/correlation%20matrix.jpg)
 
 1. Clonez le dépôt GitHub :
    ```bash
